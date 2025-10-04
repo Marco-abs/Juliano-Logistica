@@ -1,0 +1,33 @@
+# Arquivos do sistema
+AppData/
+.vscode/
+node_modules/
+*.log
+*.tmp
+
+# Arquivos do Windows
+Thumbs.db
+Desktop.ini
+*.lnk
+
+# Arquivos de backup
+*.bak
+*.backup
+*~
+
+# Arquivos temporários
+*.temp
+*.swp
+*.swo
+
+# Apenas incluir arquivos do site
+!index.html
+!styles.min.css
+!script.min.js
+!robots.txt
+!sitemap.xml
+!.htaccess
+!security.txt
+!GITHUB_SETUP.md
+!bleydcargaedescarga.png
+!logo-bleyd.png

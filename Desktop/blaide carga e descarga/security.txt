@@ -1,0 +1,10 @@
+Contact: https://julianologistica.com.br/#contact
+Expires: 2025-12-31T23:59:59.000Z
+Encryption: https://julianologistica.com.br/pgp-key.txt
+Preferred-Languages: pt, en
+Canonical: https://julianologistica.com.br/.well-known/security.txt
+Policy: https://julianologistica.com.br/privacy-policy
+
+# Juliano Logística - Security Policy
+# Este arquivo contém informações de segurança para contato
+# em caso de vulnerabilidades encontradas no site.
